@@ -12,6 +12,8 @@ Designed for users with a basic understanding of Linux commands and concepts, th
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Linux Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
