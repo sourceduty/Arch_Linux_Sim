@@ -50,6 +50,8 @@ A star (*) next to a name means that the command is disabled.
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Linux Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
+<br>
+[Windows OS Simulator](https://github.com/sourceduty/Windows_OS_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
